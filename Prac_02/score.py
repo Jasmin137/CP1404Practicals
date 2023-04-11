@@ -22,4 +22,5 @@ def display_score_status(score):
         return "Bad"
 
 
-main()
+if __name__ == 'main':
+    main()

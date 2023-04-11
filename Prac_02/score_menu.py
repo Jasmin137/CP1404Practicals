@@ -3,9 +3,9 @@
 from score import display_score_status
 
 MENU = """(G)et a valid score
-          (P)rint result 
-          (S)how stars 
-          (Q)uit"""
+(P)rint result 
+(S)how stars 
+(Q)uit"""
 
 
 def main():
